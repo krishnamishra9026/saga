@@ -1,0 +1,69 @@
+.topbar-nav .gradient-ibiza{background:#FFF !important;}
+.card.gradient-purpink{background:#c19209 !important;}
+.card.gradient-scooter{background:#c19209 !important;}
+.card.gradient-ibiza{background:#c19209 !important;}
+.card.gradient-ohhappiness{background:#c19209 !important;}
+.btn-primary{background:#2191fb; border-color:#2191fb; margin-left:15px;}
+.btn-success{background-color: #c19209; border-color: #c19209;}
+.btn-success:hover{background-color: #c19209; border-color: #c19209;}
+.ProfessionalExp .card{background:#f1f1f1;}
+.ProfessionalExp .card .card-header{background:none; padding-right: 60px;}
+.ProfessionalExp .card .card-header .icon_po{position: absolute; right: 0;}
+.ProfessionalExp .card .card-header .icon_po a{margin-right: 10px;}
+.card-body img {
+    max-width: 100%; /*min-height: 150px;*/
+}
+.FontSize{font-size: 13px !important;}
+.FontIconRed{font-size: 20px !important;color: red;}
+.FontIconGreen{font-size: 20px !important;color: #c19209;}
+.ColorRed{color: #c19209;}
+.ColorGreen{color: #c19209;}
+.TrGreen{color: #c19209 !important;}
+.TrRed{color: red !important;}
+
+
+
+#DataTables_Table_0_wrapper .table td, 
+#DataTables_Table_0_wrapper .table th{
+    white-space: initial;
+    border: 1px solid rgb(1 105 55 / 15%);
+        letter-spacing: 0;
+}
+
+#DataTables_Table_0_wrapper p,
+#DataTables_Table_0_wrapper .a-list-item {
+    font-size: 13px;
+    font-weight: initial;
+    line-height: normal !important;
+}
+#DataTables_Table_0_wrapper ul li{
+    line-height: initial !important;
+}
+
+#DataTables_Table_0_wrapper tr td:nth-child(1){}
+#DataTables_Table_0_wrapper tr td:nth-child(2){min-width: 210px;}
+#DataTables_Table_0_wrapper tr td:nth-child(3){min-width: 280px;}
+#DataTables_Table_0_wrapper tr td:nth-child(4){min-width: 350px;}
+#DataTables_Table_0_wrapper tr td:nth-child(5){min-width: 250px;}
+#DataTables_Table_0_wrapper tr td:nth-child(6){min-width: 70px;}
+#DataTables_Table_0_wrapper tr td:nth-child(7){}
+#DataTables_Table_0_wrapper tr td:nth-child(8){}
+#DataTables_Table_0_wrapper tr td:nth-child(9){}
+#DataTables_Table_0_wrapper tr td:nth-child(10){min-width: 70px;}
+#DataTables_Table_0_wrapper tr td:nth-child(11){min-width: 135px;}
+#DataTables_Table_0_wrapper tr td:nth-child(12){min-width: 135px;}
+#DataTables_Table_0_wrapper tr td:nth-child(13){min-width: 80px;}
+#DataTables_Table_0_wrapper tr td:nth-child(14){min-width: 70px;}
+#DataTables_Table_0_wrapper tr td:nth-child(15){}
+#DataTables_Table_0_wrapper tr td:nth-child(16){}
+#DataTables_Table_0_wrapper tr td:nth-child(17){}
+#DataTables_Table_0_wrapper tr td:nth-child(18){}
+#DataTables_Table_0_wrapper tr td:nth-child(19){}
+#DataTables_Table_0_wrapper tr td:nth-child(20){}
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+[24-Jan-2022 17:24:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ywl6mn5jsz57/public_html/index.php on line 23
+[24-Jan-2022 17:26:43 UTC] PHP Warning:  require_once(/home/ywl6mn5jsz57/public_html/public_html/index.php): failed to open stream: No such file or directory in /home/ywl6mn5jsz57/public_html/index.php on line 21
+[24-Jan-2022 17:26:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ywl6mn5jsz57/public_html/public_html/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ywl6mn5jsz57/public_html/index.php on line 21
+[24-Jan-2022 17:29:15 UTC] PHP Warning:  require_once(/home/ywl6mn5jsz57/public_html/public/../public/bootstrap/app.php): failed to open stream: No such file or directory in /home/ywl6mn5jsz57/public_html/public/index.php on line 38
+[24-Jan-2022 17:29:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ywl6mn5jsz57/public_html/public/../public/bootstrap/app.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ywl6mn5jsz57/public_html/public/index.php on line 38
